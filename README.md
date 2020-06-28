@@ -1,7 +1,9 @@
-# Tic-Tac-Toe
+# Criminals Record Management with Face Recognition
 
-OX game coded in C language
+The Files has been taken off due to bug. The software was crashing. Will fix it up soon.
 
-This is simple console based multiplayer game.
+Upload on 05-July-2020 again.
 
-To run on online compilers remove getch() and #include<conio.h>
+what to do till then?
+
+checkout other repositories.
