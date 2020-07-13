@@ -1,5 +1,7 @@
 # Criminals Record Management with Face Recognition
 
+Download all the files from this link: https://drive.google.com/drive/folders/1Gyplme-75Ms24ffUyKiTTkPUcIBDXzsa?usp=sharing
+
 Follow these steps to install
 1. Double click on the "Criminal Record.exe" and click on Ok
 2. Select the path to install and click next
